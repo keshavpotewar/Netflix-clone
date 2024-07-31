@@ -1,0 +1,144 @@
+@media screen and (max-width:960px) {
+
+    .main {
+        height: 70vh;
+    }
+
+    .background2 {
+        bottom: 30vh;
+
+    }
+
+    .navbar {
+        width: 100vw;
+        height: 30px;
+    }
+
+    .nav-logo {
+        width: 100px;
+    }
+
+    .main-content {
+
+        height: 60%;
+    }
+
+    .heading-1 {
+        font-size: 2rem;
+    }
+
+    .heading-2 {
+        font-size: 1rem;
+    }
+
+    .heading-3 {
+        font-size: 1rem;
+    }
+
+    .data {
+        height: auto;
+
+    }
+
+    .data-image {
+        width: 40vw;
+    }
+
+    .data-para {
+        height: 100px;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+
+    }
+
+    .data-para h1 {
+
+        font-size: 2rem;
+
+    }
+
+    .data-para p {
+        font-size: 1rem;
+
+    }
+
+    .image1>img {
+        width: 100%;
+    }
+
+    .video1 video {
+        width: 34vw;
+    }
+
+    .video2 video {
+        width: 26vw;
+    }
+
+    .text {
+        font-size: 1.5rem;
+        height: fit-content;
+    }
+
+    .questions {
+        width: 95vw;
+        font-size: 1rem;
+    }
+
+    .footer {
+        width: 90vw;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .email-input {
+        width: 80vw;
+    }
+
+    .enter-btn {
+        width: 40vw;
+        font-size: 1rem;
+    }
+    .data {
+        height: auto;
+    }
+
+    .data-para {
+        width: 100%;
+    }
+    .data-image {
+        width: 70vw;
+    }
+    .video1 video {
+        width: 60vw;
+    }
+    .video2 video {
+        width: 45vw;
+    }
+    .data-para h1 {
+        font-size: 1.3rem;
+    }
+    .data-para p {
+        font-size: 0.8rem;
+    }
+    .sign-in-button {
+        margin: 2px;
+    }
+    .headings {
+        gap: 0px;
+    }
+    .text {
+        font-size: 1rem;
+    }
+}
+
+.btn-hover:hover{
+    cursor: pointer;
+    background-color: rgba(255, 0, 0, 0.817);
+}
+
+.box1:hover{
+    cursor: pointer;
+    background-color: rgb(65, 65, 65);
+
+}
